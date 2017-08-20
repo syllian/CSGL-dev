@@ -1,0 +1,15 @@
+F:\Development\Csharp\workspace\testHelloWorld\WPFGfxTest\bin\Debug\WPFGfxTest.exe.config
+F:\Development\Csharp\workspace\testHelloWorld\WPFGfxTest\bin\Debug\WPFGfxTest.exe
+F:\Development\Csharp\workspace\testHelloWorld\WPFGfxTest\bin\Debug\WPFGfxTest.pdb
+F:\Development\Csharp\workspace\testHelloWorld\WPFGfxTest\obj\Debug\WPFGfxTest.csprojResolveAssemblyReference.cache
+F:\Development\Csharp\workspace\testHelloWorld\WPFGfxTest\obj\Debug\MainWindow.g.cs
+F:\Development\Csharp\workspace\testHelloWorld\WPFGfxTest\obj\Debug\App.g.cs
+F:\Development\Csharp\workspace\testHelloWorld\WPFGfxTest\obj\Debug\WPFGfxTest_MarkupCompile.cache
+F:\Development\Csharp\workspace\testHelloWorld\WPFGfxTest\obj\Debug\WPFGfxTest_MarkupCompile.lref
+F:\Development\Csharp\workspace\testHelloWorld\WPFGfxTest\obj\Debug\MainWindow.baml
+F:\Development\Csharp\workspace\testHelloWorld\WPFGfxTest\obj\Debug\WPFGfxTest.g.resources
+F:\Development\Csharp\workspace\testHelloWorld\WPFGfxTest\obj\Debug\WPFGfxTest.Properties.Resources.resources
+F:\Development\Csharp\workspace\testHelloWorld\WPFGfxTest\obj\Debug\WPFGfxTest.csproj.GenerateResource.Cache
+F:\Development\Csharp\workspace\testHelloWorld\WPFGfxTest\obj\Debug\WPFGfxTest.csproj.CoreCompileInputs.cache
+F:\Development\Csharp\workspace\testHelloWorld\WPFGfxTest\obj\Debug\WPFGfxTest.exe
+F:\Development\Csharp\workspace\testHelloWorld\WPFGfxTest\obj\Debug\WPFGfxTest.pdb
